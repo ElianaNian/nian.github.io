@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    font-size: 65px;
+}
+h2{
+    text-align: center;
+     font-size: 50px;
+}
+h3{
+    font-size: 45px;
+}
+ul{
+    font-size: 25px;
+}
+.one{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 25px 0;
+}
+.y{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.y div{
+    text-align: center;
+}
+.y p{
+    font-size: 30px;
+}
+
